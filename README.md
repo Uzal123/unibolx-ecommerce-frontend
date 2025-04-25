@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Create env file in root folder
+```bash
+NEXT_PUBLIC_BACKEND_ENDPOINT=http://localhost:5000
+```
+
 ## Getting Started
 
 First, run the development server:
